@@ -4,7 +4,7 @@
 {{{subtitle(Org Mode Basics)}}}
 {{{theme-color(4b7985)}}}
 
-* How to Sync NYELobbyExperience to Github for Versioning
+* How to Sync an Unreal to Github for Versioning
 ** by Yuhao Chen
 <2020-07-01 Wed>
 -----
