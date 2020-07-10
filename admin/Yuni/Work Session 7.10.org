@@ -1,0 +1,17 @@
+* Work Session With Yuhao
+** Thurs 7/9
+
+*Discussed:*
+- The viability of a multiplayer system...
+- The structure and design of points system - currency system deemed most appropriate for context. Nova logos to be hidden around the world in chests, crates, barrels which encourages the player to explore the surroundings
+- Game structure and the decision to make the game into a platforming/parkour/exploration game
+
+*Next Steps*
+- Yuni reconstructs the Verge World to suit new game priorities, damaging bridges and creating challenging platforms from main island to main island
+- Yuni constructs the shop in the hut on Adventure Island
+- Yuni creates starter hut on Spring Island to teach player how to play the game without explicit instructions
+- Yuni & Yuhao choose which items can be purchased at the shop
+- Yuhao engineers system for inventory / token collection
+- Yuhao engineers system for expenditure of tokens in the shop
+- Yuhao researches save state possibilities
+- Next meeting will take place Friday 7/10, as well as group meeting
